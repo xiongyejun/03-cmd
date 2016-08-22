@@ -1,3 +1,5 @@
+rem http://m.jb51.net/softjc/44629.html
+
 @echo off 
 
 title CHM电子书反编器BAT版 
